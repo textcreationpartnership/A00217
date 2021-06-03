@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles to be enquired of, by the minister, church-wardens and side-men, of euery parish within the arch-deaconry of London which were giuen in charge, in the annuall visitation of the right worshipfull Mr. Theophilus Ailmer, doctor of diuinitie, Archdeacon of London, in the yeare of our Lord God, one thousand sixe hundred and twentie.</title>
+            <author>Church of England. Archdeaconry of London.</author>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A00217</idno><idno type="EEBO-CITATION">22914919</idno>
+  <idno type="VID">25873</idno>
+  <idno type="EEBO-PROQUEST">2240946863</idno>
+  <idno type="STC">STC 10268.7</idno>
+  <idno type="STC">ESTC S868</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A00217)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25873)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1777:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles to be enquired of, by the minister, church-wardens and side-men, of euery parish within the arch-deaconry of London which were giuen in charge, in the annuall visitation of the right worshipfull Mr. Theophilus Ailmer, doctor of diuinitie, Archdeacon of London, in the yeare of our Lord God, one thousand sixe hundred and twentie.</title>
+                  <author>Church of England. Archdeaconry of London.</author>
+                  <author>Ailmer, Theophilus.</author>
+               </titleStmt>
+               <extent>[15] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Purfoot,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1620.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Imperfect: tightly bound with some loss of print.</note>
+                  <note>Reproduction of original in the Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Pastoral letters and charges.</term>
+               <term type="topical_term">Visitations, Ecclesiastical --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:25873:1"/>
+            <pb facs="tcp:25873:1"/>
+            <p>ARTICLES TO BE ENQVI<g ref="char:EOLhyphen"/>RED OF, BY THE MINISTER, CHVRCH-WARDENS AND SIDE-MEN, OF EVERY PARISH WITHIN THE ARCHDEACONRY OF <hi>LONDON.</hi>
+            </p>
+            <p>WHICH WERE GI<g ref="char:EOLhyphen"/>VEN IN CHARGE, IN the annuall Visitation of the Right Worshipfull M<seg rend="sup">r</seg>. <hi>Theophilus Allmer.</hi> Doctor of Diuinitie, Archdeacon of LONDON, in the yeare of our Lord GOD, one thousand sixe hundred and twentie.</p>
+            <p>LONDON, ❧ Printed by <hi>Thomas Purfoot.</hi> (1620.)</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:25873:2"/>
+            <pb facs="tcp:25873:2"/>
+            <head>A BRANCH OF THE STA<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ute made in the first yeare of the Raigne <hi>of our late Soueraigne Lady Queene</hi> ELI<g ref="char:EOLhyphen"/>ZABETH, <hi>intituled an Act for the vniformity of Common Prayer, and Seruice of the Church.</hi>
+            </head>
+            <p>THat from and after the feast of the Na<g ref="char:EOLhyphen"/>tiuity of S. <hi>Iohn Baptist</hi> next comming, all and euery person, and persons inha<g ref="char:EOLhyphen"/>biting within this Realme, or any other the Queenes Maiesties dominions, shall <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ligently &amp; faithfully (hauing no lawfull or reasonable <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cuse to be absent) indeauour themselues to resort to their Parish Church, or Chappell accustomed, or vpon reasonable let therof, to some vsual place where Com<g ref="char:EOLhyphen"/>mon Prayer, and such like seruice of God shall be vsed in such time of let, vpon euery Sunday, and other dayes ordained and vsed to be kept as holidaies, and then and there to abide orderly, and soberly during the time of Common Prayer, preaching, or other seruice of God, there to be vsed and ministred, vpon paine of punish<g ref="char:EOLhyphen"/>ment by the censures of the Church; and also vpon
+<pb facs="tcp:25873:3"/>paine that euery person so offending, shall forfeit for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>uery such offence twelue pence, to bee leuied by th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Churchwardens of the Parish where such offence sha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be done, to the vse of the poore of the same Parish, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the goods, lands, and Tenements of such offendor, b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> way of distresse. And for due execution hereof, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Queenes most excellent Maiestie, the Lords temporal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and all the Commons in this present Parliament assem<g ref="char:EOLunhyphen"/>bled, doe in Gods name earnestly require and charge al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Arch-Bishops, Bishops, and other Ordinaries, that the shall indeauour themselues to the vttermost of thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> knowledge, that the true and due execution hereof ma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be had throughout their Diocesse, and charges, as <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they will answere before God, for such euills and plagues wherewith Almighty God may iustly punish his people, for neglecting this good and wholesome law.</p>
+         </div>
+         <div type="oath">
+            <pb facs="tcp:25873:3"/>
+            <head>The forme of the Oath to be ministred vnto the Church-wardens onely.</head>
+            <p>YOu shall sweare, that you shall duely and faithfully admini<g ref="char:EOLhyphen"/>ster, and dispose of the Stock, and goods belonging to your Parish Church, which shall come to your hands and posses<g ref="char:EOLhyphen"/>sion, to and for the best benefit of your Church; and in the end of your office of Church warden-ship, you shall make a true, iust, and perfect accompt thereof; and yeeld, and deliuer the remain<g ref="char:EOLhyphen"/>der thereupon, into the hands, and custody of those persons who shall succeede you in the same Office, So helpe you God, and his faithfull promises in Iesus Christ.</p>
+         </div>
+         <div type="oath">
+            <head>The forme of the Oath to be ministred vnto the Church-wardens, and Side-menioyntly.</head>
+            <p>YOu shall sweare, that you, and euery of you, shall duly con<g ref="char:EOLhyphen"/>sider, and diligently inquire of all these Articles giuen you in charge, and that all fauour, hatred, hope, feare, or any o<g ref="char:EOLhyphen"/>ther corrupt affection set aside, you shall present vnto vs, or our Officiall, all and euery such person which now is, or lately was in your Parish, as haue committed any offence, or default compri<g ref="char:EOLhyphen"/>sed in any of these Articles, or which are vehemently suspected or diffamed of any such offence, or default. Wherein you shall deale according to an vpright conscience, neither presenting, nor sparing to present any person contrary to truth; hauing in this action God before your eyes, with an earnest zeale to main<g ref="char:EOLhyphen"/>taine truth, and to suppresse vice. So helpe you God, and his faithfull promises in Iesus Christ.</p>
+         </div>
+         <div type="charge">
+            <pb facs="tcp:25873:4"/>
+            <head>
+               <hi>The charge of you the Church-wardens</hi> and Side-men, set downe for the better per<g ref="char:EOLhyphen"/>formance of your duties, and discharge of your <hi>OATHS.</hi>
+            </head>
+            <p>YOu are straightly charged, that within the space of one weeke <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the farthest, next ensuing this your admission, by vs, or our au<g ref="char:EOLunhyphen"/>thority, into this your Office; and after the same, once in euery moneth at the least, during your said Office, you do diligently <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> carefully reade, or heare to beread, and duely consider of all, and eue<g ref="char:EOLhyphen"/>ry of these subsequent Articles, now giuen you in charge; and also tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you doe diligently and carefully endeauour to enquire, and know a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> offences and offenders, against the same Articles. Which being we<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> obserued, you shall be readily prepared to disburthen your conscien<g ref="char:EOLhyphen"/>ces in this behalfe.</p>
+            <p>And that at fit seasons you doe meet together, and conferre with you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Minister about, and require him to be assistant vnto you, in the true vn<g ref="char:EOLhyphen"/>derstanding, and detecting of sinne, and the breach of his Maiesties lawes Ecclesiasticall established; that so condigne punishment may be inflicted on the offenders, and their reformation be effected. Your Mi<g ref="char:EOLhyphen"/>nister being deepely charged in this behalfe, in, and by the 26. <hi>Canon</hi> Ecclesiasticall, lately ordained.</p>
+            <p>And lastly, that in your presentments to be made, you doe specifi <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the fault, or crime, proper name, and sir-name, trade or profession, and place of dwelling of euery person presented. And that you shal bring your first generall presentment vpon all the said Articles, into <hi>Christ-Church</hi> in <hi>London,</hi> in the forenoone, betweene the houres of <hi>eight,</hi> and <hi>eleauen</hi> of the clocke, on the <hi>three and twentieth</hi> day of <hi>September, Anno Dom.</hi> 1620. and your last generall presentment on the <hi>Tuesday Senight</hi> immediately ensuing after <hi>Easter</hi> day next, according to the tenor of the 118. <hi>Canon,</hi> or else then, and there to appeare personally, to shew the cause of your default therein.</p>
+            <p>Intimating vnto you further, that you may (besides those generall presentments) present offenders as often as you shall thinke meet, as by the 116. <hi>Canon</hi> is prescribed.</p>
+         </div>
+         <div type="articles">
+            <pb facs="tcp:25873:4"/>
+            <head>ARTICLES TO BE ENQVI<g ref="char:EOLhyphen"/>red of by the Minister, Churchwardens, and Side-men, within the Archdeaconry of <hi>LONDON.</hi>
+            </head>
+            <div type="part">
+               <head>Concerning the Church.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>HETHER haue you in your Church all things re<g ref="char:EOLhyphen"/>quisite for the Common Prayer, and due administra<g ref="char:EOLhyphen"/>tion of the Sacraments, according to his Maiesties lawes, and Canons Ecclesiasticall lately established? and namely, a faire Bible, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>80</label> the booke of Common Pray<g ref="char:EOLhyphen"/>er lately ordained onely to be vsed, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>81</label> a Font of stone set <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in the ancient vsuall place, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>82</label> a decent Communion table standing <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n a frame, with a Carpet of Silke, or some other séemely stuffe, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a faire Linnen cloth to lay thereon at the time of the Communi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, a faire Communion cup with a couer of siluer, a decent Pulpit <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith a cloth and Cushion for the same, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>83</label> a conuenient Pulpit or seat to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade seruice in, a comely large Surplisse, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>84</label> a strong Chest for almes for <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> poore, hauing thrée lockes and keies, and another Chest for kéeping <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Ornaments of the Church, &amp; the Church Register booke? &amp; whe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er haue you a Register booke of Parchment, of all Christnings, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>70</label> wed<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>gs, and burials? and whether is the same kept according to the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>anous? and whether doth your Minister vpon euery Sunday reade <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> names of such as haue béene Christened, married, or buried the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e before?</p>
+               <p n="2">2 Whether your Church, Chancell, and Churchyard be kept in good <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>85</label>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>parations, aswell within, as without? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>88</label> whether any prophanation <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> vsed in thē, or any man hath incroached vpon them? &amp; whether your <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arsonage or Vicarage house, and all the housing thereunto belong<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g, be likewise maintained in sufficient reparations? If not, through <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hese default is it? and what is the defect?</p>
+               <p n="3">Whether haue you a Terrier of all the Gleabes, Lands, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>87</label> Mea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es, Gardens, Orchards, Houses, Stockes, Implements, Tene<g ref="char:EOLhyphen"/>ments,
+<pb facs="tcp:25873:5"/>and portions of tythes lying within, or without your <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rish; which belong vnto your Parsonage or Vicarage, and in wh<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> hands it doth remaine? If not, you shall together with your Mini<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> make diligent inquiry of all the premisses, and exhibite with your <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> presentment a true note of them in parchment, subcribed with y<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hands, specifying how they are buttalled and bounded, and in wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> accupation at this present they are?</p>
+            </div>
+            <div type="part">
+               <head>Concerning the Minister.</head>
+               <p n="4">4 WHether diuine seruice be said in your Church by your <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nister distinctly and reuerently, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>14</label> on all Sundayes, and h<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> dayes appointed to be obserued by the lawes of <hi>England,</hi> and on th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Eeues, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>15</label> and on Wednesdays and Fridays at conuenient vsuall time and whether doth hee in ministring the Sacraments, solemnizing <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Matrimony, visitation of the sicke, burying the dead, churching of <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> men, and all other Rites and offices of the Church, vse the formes <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Prayers prescribed in the booke of Common Prayers, without any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mission or addition? and whether doth he reade the booke of Cano<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> once yearely, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>58</label> and were a Surplisse according to the Canon?</p>
+               <p n="5">5 Whether doth your Minister solemnly giue warning to his P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rishioners for the administration of the holy Communion, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>22</label> and for t<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> obseruation <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>64</label> of all holidayes, and fasting dayes? and whether doth <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> visite <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>67</label> the sicke, &amp; exhort them to gius to the poore? and whether doth <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> conferre <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>84</label> with Recusants in your Parish (if there be any) according <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Canons? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>66</label> and whether doth he admit to the holy Communion a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> notorious <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>26</label> offenders, Schismatickes, or strangers, or rei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct any w<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> are not <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>27</label> by presentment, or publike scandall infamous for some notor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ous crime? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>28</label> and whether doth he admit any Father to be Godfath<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to his owne <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>29</label> childe, or any to be Godfathers and Godmothers, whi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> haue not receiued the holy Communion? and whether doth he not v<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the signé of the crosse in baptisme, or doth baptize in any Bason, or <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ther vessell, and not in the vsuall Font, or doth baptize in any childr<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> that were not <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>62</label> borne within the Parish? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>63</label> and whether doth he mar<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> any in any exempt place, or without Banes published thrée seuer<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Sundayes or holidays, or without a sufficient dispensation or licens<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or without license in times prohibited, albeit the Banes were thre<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> published, or not, betwéene the houres of <hi>eight</hi> &amp; <hi>twelue</hi> in the for noone, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>100</label> or (if the parties be vnder the age of <hi>One</hi> and <hi>Twenty</hi> yeare<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> before their Parents or Cournors haue signified their consent <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:25873:5"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and whether doth he refuse to christen, or to burie, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>68</label> or deser the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> longer then he should? and whether by his default any child <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>69</label>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dyed without baptisme in your Parish?</p>
+               <p n="6">6 Whether doth hee preach, minister the Communion, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>71</label> baptize children, vnlesse in case of necessity, solemnize marriage, or church <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>omen in priuate houses? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>71</label> or doth he kéepe or suffer any Fasts, pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hesies, Exercises, or Exorcismes, without lawfull authority? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>73</label> or doth he hold or suffer any priuate conuenticles contrary to the Ca<g ref="char:EOLhyphen"/>nons? and whether doth he frequent Tauernes, Alehouses, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>75</label> or any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lace suspected for incontinency? or doth he table or lodge in any <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ath house? or is he a common gamster at Dice, Cards, Tables, or any other vnlawfull game? or is he a swearer, or drunkard, or one that applyeth not himselfe to his studie, or is otherwise offensiue, or standalous to his function, and ministry? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>74</label> or doth not he vse deren<g ref="char:EOLhyphen"/>cy in his apparell, as by the Canons he is enioyned?</p>
+               <p n="7">7 Whether is he continually resident vpon his Benefice? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>45</label> or how long time hath he béene absent from the same? and (in case hee hée licensed to be absent) whether doth he cause his Cure to be suffici<g ref="char:EOLhyphen"/>ently supplied according to the Canons? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>47</label> whether (if he be a Prea<g ref="char:EOLhyphen"/>cher allowed) doth he preach one sermon euery Sunday, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>46</label> or (if not so allowed) doth he procure monthly Sermons, and reade Homilies? and whether (not being so allowed) doth he expound any Scripture, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>49</label> or suffer any man to preach in your Church, whom you haue not well knowne to haue béene sufficiently licensed, and who hath not first subscribed his name, together with the day when he did preach, and who was not soberly or decently apparelled? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>74</label>
+               </p>
+               <p n="8">8 Whether your Preacher <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>56</label> and Lecturer reade diuine Seruice, and minister the Sacraments twise in the yeare at the least, in his owne person, according to the Canons? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>55</label> and whether doth hee vse the forme of Prayer, before his Sermon, for the Kings most excel<g ref="char:EOLhyphen"/>lent Maiesty, exhorting the people to obedience to his Maiestie, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther Magistrates in authority vnder him?</p>
+               <p n="9">9. Whether doth your Minister on Sundaies and holidayes cate<g ref="char:EOLhyphen"/>chise the youth and ignorant persons in your Parish, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>59</label> according to the order prescribed in the beake of Common Prayer, and according to the Canons? and whether doth he in the Rogation dayes vse the pera<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bulation of the rircuite of the Parish, appointed by the law, according to his dutie?</p>
+               <p n="10">10 Whether doth he euery sixe moneths denounce in your Parish
+<pb facs="tcp:25873:6"/>Church, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>65</label> all such of your Parish as dot perseuere in the sentence <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Excommunication, not sée king to be absolued? and whether hat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he admitted any such Excommunicate person to the Communion or to the Church, without Certificate of his absolution: and whe<g ref="char:EOLunhyphen"/>ther doth he, or any of your Parish, familiarly frequent the company of any such excommunicate person?</p>
+            </div>
+            <div type="part">
+               <head>Concerning Parishioners.</head>
+               <p n="11">11 WHether any of your Parishioners one not cause their children, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>59</label> seruants, and Apprentices to come to their Minister vpon Sundayes and holidayes, to be instructed in the Ga<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>iechsme by him? and whether any of them refuse or neglect to come, or comming, refuse to learne those instructions set forth in the booke of Common Prayer? and what be the names of them so not causing, or refusing?</p>
+               <p n="12">12 Whether any of your parishioners, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>13</label> or other strangers soiour<g ref="char:EOLhyphen"/>ning, lodging, or commonly resorting to any house within your Pa<g ref="char:EOLhyphen"/>rish, being aboue <hi>Sixteene</hi> yeares of age, do wilfully or negligently absent themselues from your Parish Church, vpon Sundayes, or holidayes, at Morning and Euening prayer? or who come very late to Church vpon the said dayes? or who depart from Church be<g ref="char:EOLhyphen"/>fore the diuine Seruice be finished? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>18</label> or who doe not reuerently be<g ref="char:EOLhyphen"/>haue themselues during the time of diuine Seruice, deuoutly knoe<g ref="char:EOLhyphen"/>ling at such times as the generall confession of sinnes, the Letany, the ten Commandements, and all prayers and Collects are read? and what Men, Youthes, and Boyes, during all that time, haue not had their heads wholly vncouered, except in case of apparant sick<g ref="char:EOLhyphen"/>nesse? and who doe vse any gaming or pastime abroad, or in any house, or doe sit in the stréet, or Churchyard, or in any Tauerne or Victualling house, vpō any of those days in y<seg rend="sup">e</seg> time of diuine seruice? and who haue quarrelled, brawled, or vsed violence to any person within your Church, or Churchyard? and who haue vsed filthy and prophane talke, or other rude and immodest behauiour? and what be the names of the offenders herein?</p>
+               <p n="13">13 Whether there be any of, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>21</label> or within your Parish, being <hi>Six<g ref="char:EOLhyphen"/>teene</hi> yeares of age, and vpward, that doe not receine the holy Com<g ref="char:EOLhyphen"/>munion in your Church thrice in this yeare at the least, and chiefty once at Caster next? and whether any of your Parish doe not de<g ref="char:EOLhyphen"/>uoutly
+<pb facs="tcp:25873:6"/>knéele at the receiuing thereof? and whether doth not your <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nister receiue it himself? on euery day that he administreth it to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and vse the words of Institution at euery time y<seg rend="sup">t</seg> the Bread <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ine is administred? and whether haue all those persons which <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e béen partakers of the holy Communion, signified their names <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto the Minister, or vnto some other person by him thereunto ap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ointed oner-night, or else in the morning before the beginning of Morning prayers, according to the forme prescribed in the booke of Common Prayers aforesaid, to the intent that the Minister, and all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thers appointed to haue the charge and care thereof, may fully bée <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vertised, and take notice (in due time) of all them that haue <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>éne Communicants, and of all them that haue not béen Commu<g ref="char:EOLhyphen"/>nicants at the time and times appointed for the same? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>22</label> To which purpose, that the people may be prepared so to doe, the Minister shall giue publike warning thereof in the Church, on the next Sunday before the Communion shall be celebrated. And whether doe your selues diligently obserue your office, in marking what persons of or within your Parish offend against this, and the next precedent Article, in due presenting of their names?</p>
+               <p n="4">14 Whether any in your Parish hauing a Preacher to their Par<g ref="char:EOLhyphen"/>son, Uicar, or Curate, doe absent themselues from his Sermons, and resort to other places to heare other Preachers? and whether any hauing béene ordained Prieff, or Deacon, hath relinquished the same, and betaken himselfe to a course of life as a Lay man? And whether any (not being in Orders) do openly reade common Pray<g ref="char:EOLhyphen"/>er, or execute any ministeriall dutie in the Church, and what bée their names?</p>
+               <p n="15">15 Whether there be any that doe publikely or priuately speake against the booke of Common Prayer, deprauing the same, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>4</label> or any therein contained? or doe so speake against, or depraue any <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>6</label> of the Articles of Religion, agréed vpon in <hi>Anno Dom.</hi> 1562? <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>2</label> or against the Kings rovall Supremacie in causes Ecclesiasticall? or against <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>30</label> any of the Rites or Ceremonies of the Church of <hi>England?</hi> or a<g ref="char:EOLhyphen"/>gainst the gouernment of the said Church of <hi>England,</hi> vnder the kings most excellent Maiestie, by Archbishops, Bishops, Deanes, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>7</label> Archdeacon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and other Officers thereunto lawfully appointed, af<g ref="char:EOLhyphen"/>firming that the same is repugnant to the word of God, and that the said Ecclesiasticall Officers are not lawfully ordained? or whe<g ref="char:EOLhyphen"/>ther there be any that be Authors, or Maintainers of Schisme, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>9</label> or <gap reason="missing" extent="2+ pages">
+                     <desc>〈2+ pages missing〉</desc>
+                  </gap>
+                  <pb facs="tcp:25873:7"/>any persons in their houses, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>6</label> to eate, drinke, or play at any game during the time of diuine Seruice, or Sermon on those dayes? an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you are to specifie the offences, and offenders.</p>
+               <p n="24">24 Whether doe any in your Parish familiarly frequent th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> company of excommunicate persons? and whether doth your Mi<g ref="char:EOLhyphen"/>nister, or any of your Parish, without consent of your Ordinary, cause any to doe penance? or to be censured or punished by any Ve<g ref="char:EOLhyphen"/>strie méetings, or otherwise by their owne authority? or one or haue taken any money for any crime or matter punishable by the Ecclesiasticall lawes? and you are to specifie the names of them that haue béene so punished, and in what manner, and vpon what cause.</p>
+               <p n="25">25 Whether haue you, and euery of you the Churcwardens, and Sidemen, within the space of one wéeke next and immediately en<g ref="char:EOLhyphen"/>suing your admission (by vs, or our authority) into this your Office, and sithence the same, once in euery moneth at the least, diligently and carefully rea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, or heare read, and duely considered of all and euery of these Articles giuen you in charge? and whether haue you, and euery of you diligently and carefully endeauoured to inquire and know the offences and offenders, against any of the contents of these Articles? and whether haue you duely presented all and eue<g ref="char:EOLhyphen"/>ry of them, vnto vs the Archdeacon of <hi>London</hi> your Ordinary, or vnto our Officiall, according to your seuerall oaths, by vs, or our authority in this behalfe, administred vnto you? and if any one, or more of you the Churchwardens, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>117</label> and Sidemen, doe know, or haue heard of any fault inquired of in these Articles, or of any other crime (the reformation whereof belongeth to the Ecclesiasticall Zu<g ref="char:EOLhyphen"/>risdiction) happening from the <hi>Fiue</hi> and <hi>twentieth</hi> day of <hi>March. Anno Dom. 1620.</hi> that then you shall informe one another thereof. and shall likewise present the same, by vertue of your oaths taken as aforesaid.</p>
+               <p n="26">Whether haue you the Churchwardens, and Sidemen, at fif seasons, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>26</label> met togethers, and (in the presence of your Minister) con<g ref="char:EOLhyphen"/>ferred of your presentments to be made vpon, and your answers vn<g ref="char:EOLhyphen"/>to euery of these preceding Articles? and whether haue you requi<g ref="char:EOLhyphen"/>red your Minister, <label type="milestone">
+                     <seg type="milestoneunit">Canon. </seg>113</label> to be present with you, and to assist you at those times? In<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mating hereby, that if you will not present, according to your o<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s, and charge, your Minister may himselfe present vn<g ref="char:EOLhyphen"/>to vs, or<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Officiall, such faults and crimes as are before parti<g ref="char:EOLhyphen"/>cularly
+<pb facs="tcp:25873:7"/>inquired of, in these precedent Articles, for the due refor<g ref="char:EOLhyphen"/>nation of the same</p>
+               <p>
+                  <hi>WHereas in diuers great Parishes within the Archdeaconry of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> multitudes of people vsually come to receiue the holy C<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>nu<g ref="char:EOLhyphen"/>nion, some of whome are persons excommunicated: It is thought to be very conuenient, that in euery Parish the names of all such persons excommunicated, be alwayes kept in writing, from time to time. That so the Minister (when he is to administer that holy Sacrament) may thereby be remembred of those persons excom<g ref="char:EOLhyphen"/>municated, and so auoyde them.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
